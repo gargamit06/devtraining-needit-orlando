@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>My Table</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_my_table</name>
+        <number_ref display_value="MY">1bd4ce132f801010a08757892799b6a5</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 19:00:43</sys_created_on>
+        <sys_id>7f61c6532f801010a08757892799b678</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_7f61c6532f801010a08757892799b678</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 19:10:22</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_58872_needit.my_table_user" name="x_58872_needit.my_table_user">82a2cedf2f401010a08757892799b67b</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>92821e44dbbbbf00f492c597059619c4</instance_id>
+        <instance_name>dev93012</instance_name>
+        <name>sys_db_object_7f61c6532f801010a08757892799b678</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>My Table</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_my_table</name><number_ref display_value="MY">1bd4ce132f801010a08757892799b6a5</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:00:43</sys_created_on><sys_id>7f61c6532f801010a08757892799b678</sys_id><sys_mod_count>1</sys_mod_count><sys_name>My Table</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_7f61c6532f801010a08757892799b678</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:10:22</sys_updated_on><update_access>false</update_access><user_role display_value="x_58872_needit.my_table_user" name="x_58872_needit.my_table_user">82a2cedf2f401010a08757892799b67b</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1372657441</payload_hash>
+        <record_name>My Table</record_name>
+        <reverted_from/>
+        <source>3c3fb99f2f401010a08757892799b641</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 19:10:22</sys_created_on>
+        <sys_id>dfd4cad32f801010a08757892799b6a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17174f31e270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 19:10:22</sys_updated_on>
+        <type>Table</type>
+        <update_guid>1bd4ce131f801010d22985da3a47dfab</update_guid>
+        <update_guid_history>1bd4ce131f801010d22985da3a47dfab:-1372657441,6ea2c2936d8010104a75c51903d4a7d8:819582234</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 19:17:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>992021086a6e469e80c27f994090db41</sys_id>
+        <sys_metadata>7f61c6532f801010a08757892799b678</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_7f61c6532f801010a08757892799b678</sys_update_name>
+        <sys_update_version display_value="sys_db_object_7f61c6532f801010a08757892799b678">dfd4cad32f801010a08757892799b6a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 19:17:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
